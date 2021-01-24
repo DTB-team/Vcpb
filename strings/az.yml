@@ -1,0 +1,64 @@
+start_1: "Salam, mənə oynatmaq üçün bir YouTube bağlantısı göndərin!"
+
+
+play_1: "Bu link etibarsızdır."
+play_2: "Mənə bir video göndərin!"
+play_3: "Endirmə növbəyə qoyuldu."
+ytdl_3: "Canlı video yükləyə bilməzsiniz!"
+ytdl_1: "Endirilir..."
+ytdl_2: "Video yüklənir və {0}. növbəyə qoyuldu."
+player_1: "Oynayan..."
+player_2: "Oynatma bitdi."
+
+
+stream_1: "Mənə bir axın ünvanı verin."
+stream_2: "Birdən çox parametr vermisiniz."
+stream_3: "Musiqi çalarkən axın edə bilmirəm."
+stream_4: "Yayımlanır..."
+
+
+tts_1: "Mənə danışmaq üçün bir neçə söz ver."
+tts_2: "Mən danışıram..."
+tts_3: "Mən danışdım."
+
+
+skip_1: "Keçdi."
+skip_2: "HHeç bir şey oxunmadığı üçün keçə bilmirəm."
+skip_3: "Bu video administrator tərəfindən qəbul edildi."
+
+
+pause_1: "Dayandı."
+pause_2: "Onsuz da yenidən dayandırılmış bir şeyi dayandıra bilmirəm."
+pause_3: "dayandırmaq üçün bir şeyin çalınması lazımdı, səncə elə deyil?"
+
+
+group_2: "<b>Səsləndirilir</b>\n
+<pre>{0}</pre>"
+group_1: "<b>Səsləndirilir</b>\n
+TITLE: {0}\n
+REQUESTED BY: {1}\n
+DURATION: {2}"
+
+
+song_1: "TITLE: {0}\n
+REQUESTED BY: {1}\n
+DURATION: {2}"
+song_2: "Hazırda heç bir mahnı səsləndirilmir."
+
+
+n4u: "Bu sizin üçün deyil."
+
+
+mistake: "Güman edirəm bir səhv oldu."
+error: "Bir şey səhv oldu."
+
+
+volume_1: "Hal-hazırda səs səviyyəsi: {0}"
+volume_2: "səs səviyyəsi {0} olaraq ayarlandı."
+
+
+cleardownloads: "Endirmələr qovluğu təmizləndi."
+
+
+
+ytdl_4: "Videoları {0} dəqiqədən çox olarsa yükləyə bilməzsiniz."
